@@ -1,6 +1,7 @@
 > **Note:** This is a personal fork of [ilyamiro/serpantinum](https://github.com/ilyamiro/serpantinum)
-> with a custom patch adding external monitor (DDC/CI) brightness control to the system panel.
 > See commit history for details.
+## Changes
+1.with a custom patch adding external monitor (DDC/CI) brightness control to the system panel.
 
 ---
 ## Installation

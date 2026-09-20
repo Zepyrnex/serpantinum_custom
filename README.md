@@ -1,22 +1,8 @@
-<div align="center">
-  <a href="https://ko-fi.com/ilyamiro">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="docs/assets/banner.png" alt="Serpantinum" width="850" />
-</div>
-
-## Previews
-
-| | |
-|---|---|
-| ![Preview 1](docs/assets/previews/preview_1.png) | ![Preview 2](docs/assets/previews/preview_2.png) |
-| ![Preview 3](docs/assets/previews/preview_3.png) | ![Preview 4](docs/assets/previews/preview_4.png) |
+> **Note:** This is a personal fork of [ilyamiro/serpantinum](https://github.com/ilyamiro/serpantinum)
+> with a custom patch adding external monitor (DDC/CI) brightness control to the system panel.
+> See commit history for details.
 
 ---
-
 ## Installation
 
 > [!IMPORTANT]
